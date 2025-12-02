@@ -4,7 +4,7 @@
 #include <dt-bindings/zmk/pointing.h>
 
 / {
-    behaviors {
+ behaviors {
         tapdance: tapdance {
             compatible = "zmk,behavior-hold-tap";
             label = "TAPDANCE";
