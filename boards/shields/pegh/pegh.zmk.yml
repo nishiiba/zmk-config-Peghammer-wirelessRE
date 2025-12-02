@@ -1,0 +1,10 @@
+file_format: "1"
+id: pegh
+name: pegh
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble

@@ -1,0 +1,11 @@
+/ {
+    chosen {
+        zmk,kscan = &kscan0;
+    };
+};
+
+#include "layouts.dtsi"
+
+&left_encoder {
+    status = "okay";
+};

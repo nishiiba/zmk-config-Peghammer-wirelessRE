@@ -1,0 +1,6 @@
+include:
+  - board: bmp_boost
+    shield: pegh
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    shield: settings_reset
