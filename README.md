@@ -1,4 +1,4 @@
-##  左手デバイス　PeghammerワイヤレスRE版　zmk-config
+##  PeghammerワイヤレスRE版　zmk-config
 keymap-editorでのキーマップ変更手順はビルドガイド(note)を確認して下さい｡
 
 https://note.com/nishiiba/n/n56c571a729d1
